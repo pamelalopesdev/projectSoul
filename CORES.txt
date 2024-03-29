@@ -1,0 +1,55 @@
+#772F9E
+#58366B
+#322738
+#5B7A56
+#8F7186 verde
+#4F2B44 fonte
+#A4CF9D verde
+#8F7186
+#CBC2C6
+#4D1A31
+
+sevillana karma cinzel berkshire Quintessencial
+
+A nossa alma cresce a medida que vamos vivendo. Isso significa que estamos em contante mudança. A vida muda o tempo todo e o grande mistério é existir e estar aqui.
+
+Acreditar em dias melhores e apreciar a existência. Viver o amor. Aprender. Sorrir. Amar.
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap');
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap" rel="stylesheet">
+
+font-family: 'Cormorant Infant', serif;
+
+
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap');
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap" rel="stylesheet">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
+
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+</style>
+
+font-family: 'Didact Gothic', sans-serif;
